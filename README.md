@@ -16,23 +16,32 @@ Android Studio
 Emulator or a Physical Device
 ```
 
+## Deployment
+
+To test the app in any Physical Device or Emulater follow the Installation Process mentioned Below.
+
+
 ### Installing
 
 A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
+1. Download Android Studio from the Following Link
+[Android Studio](https://developer.android.com/studio/index.html)
 
-```
-Give the example
-```
+2. Install using the Steps as mentioned during the installation process
 
-And repeat
+3. Download this Repository by clicking on "Clone or Download Option" and use ZIP
 
-```
-until finished
-```
+4. Extract the package to a Desired Location and open the project in Android Studio
 
-End with an example of getting some data out of the system or using it for a little demo
+5. Compile, It will show an Error
+
+6. Copy the name of the Package and Register your project in Firebase Console 
+
+7. Download the Json File and place it under app folder.
+
+8. Run the app in desire device.
+
 
 ## Deployment
 
@@ -56,6 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
+* Udacity 
+* Google
+* Stack overflow Guys
 * etc
