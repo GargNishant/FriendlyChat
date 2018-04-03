@@ -45,7 +45,7 @@ A step by step series of examples that tell you have to get a development env ru
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Use the intructions above and you can start the app without any modifications in the code
 
 ## Built With
 
