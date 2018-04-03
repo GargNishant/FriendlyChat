@@ -1,6 +1,11 @@
 # Freindly Chat
 
-A chatting application which can be used as a group chat, uses Firebase as the backend server. This application uses the Firebase Realtime Database to store the messages sent by the users. The users must authenticate themselve by using the Google accounts.  
+A chatting application which can be used as a group chat, uses Firebase as the backend server. This application uses the Firebase Realtime Database to store the messages sent by the users. The users must authenticate themselve by using the Google accounts.
+
+## About
+Friendly Chat is a chatting application which uses various Firebase Service for the Back End purposes. These include Real-time Database, Firebase Authentication methods, etc. In this application the users must authenticate themselve by using the Google accounts.
+The messages will be stored as the JSON branches along the the name of the person who sent the Messages in Firebase Realtime Database
+
 
 ## Getting Started
 
