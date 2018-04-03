@@ -43,9 +43,6 @@ A step by step series of examples that tell you have to get a development env ru
 8. Run the app in desire device.
 
 
-## Deployment
-
-Use the intructions above and you can start the app without any modifications in the code
 
 ## Built With
 
@@ -54,14 +51,11 @@ Use the intructions above and you can start the app without any modifications in
 
 ## Version
 
-Current Version: 1
+Latest Version: 1
 ## Authors
 
 * **Nishant Garg**  - [Nishant Garg](https://github.com/GargNishant)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
